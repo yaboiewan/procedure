@@ -12,11 +12,9 @@
 
 1. Your game must be based on a significant, pre-existing
 philosophical idea, law, or operation (don't just make something up).
-
 2. Your game must be interactive. The user's input (i.e. keyboard
 strokes, mouse movements) must play a role in the outcome/direction of
 the game.
-
 3. Your game must be a game. Choose your favorite definition of a game
 (see Salen/Zimmerman). You should be able to explain how your game
 meets this definition's criteria.
