@@ -53,12 +53,24 @@ meets this definition's criteria.
 ## Inspiration
 
 -[Snakisms, by Pippin Barr (2017)](https://pippinbarr.github.io/SNAKISMS/)
--[Every Day the Same Dream (2009), by Paolo Pedericini](http://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)
--[Passage (2007), by Jason Roher](http://hcsoftware.sourceforge.net/passage/)
--[Panopticon Pandimonium (2016), by Duck Duck Zeus / UCL](http://www.ucl.ac.uk/BenthamProject/who/panopticon/panopticon_game)
+
+-[Every Day the Same Dream (2009), by Paolo
+ Pedericini](http://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html)
+
+-[Passage (2007), by Jason
+ Roher](http://hcsoftware.sourceforge.net/passage/)
+
+-[Panopticon Pandimonium (2016), by Duck Duck Zeus /
+ UCL](http://www.ucl.ac.uk/BenthamProject/who/panopticon/panopticon_game)
+
 -[M*A*S*H (1983), TI 99/4A](https://youtu.be/97jagCyC0PY?t=50s)
 
 ## Resources
--[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)
+
+-[Stanford Encyclopedia of
+ Philosophy](https://plato.stanford.edu/contents.html)
+
 -[Legal Acts Listed by Popular Name](https://www.law.cornell.edu/topn/0)
--[Step-by-Step Heart Surgery](http://www.popularmechanics.com/science/health/g542/step-by-step-heart-surgery/?slide=1)
+
+-[Step-by-Step Heart
+ Surgery](http://www.popularmechanics.com/science/health/g542/step-by-step-heart-surgery/?slide=1)
