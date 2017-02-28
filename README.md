@@ -55,6 +55,7 @@ meets this definition's criteria.
 - [Passage (2007), by Jason Roher](http://hcsoftware.sourceforge.net/passage/)
 - [Panopticon Pandimonium (2016), by Duck Duck Zeus / UCL](http://www.ucl.ac.uk/BenthamProject/who/panopticon/panopticon_game)
 - [M*A*S*H (1983), TI 99/4A](https://youtu.be/97jagCyC0PY?t=50s)
+- [Free will?](http://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 
 ## Resources
 
