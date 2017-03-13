@@ -17,8 +17,8 @@ function setup() {
     coins = new Group();
     for (var i = 0; i < 10; i++) {
        var c = createSprite(
-        random(110, width-110),
-        random(110, height-110), 
+        random(110, width-100),
+        random(110, height-100), 
         10, 10);
         if(random(100)<50){
          c.addAnimation("default", csword);  
