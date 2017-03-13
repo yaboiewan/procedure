@@ -77,7 +77,7 @@ function draw() {
         text(score, width/2, height/2);
     }
     else {
-        text("Congratulations: Balance is Csrucial!", width/2, height/2);
+        text("You Win!: Balance is Crucial.", width/2, height/2);
         text("refresh to play again", width/2, height/ 1.5);
         noLoop();
     }
